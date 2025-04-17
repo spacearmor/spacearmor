@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spacearmor
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...web development
-- 📫 How to reach me ...
+- 👀 I’m interested in good food, friendship, and good sleep
+- 🌱 I’m currently learning the English language
+- 📫 How to reach me 
 
 <!---
 spacearmor/spacearmor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
